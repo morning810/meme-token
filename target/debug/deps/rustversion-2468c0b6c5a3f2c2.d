@@ -1,0 +1,20 @@
+/root/morning/meme/meme-token/target/debug/deps/librustversion-2468c0b6c5a3f2c2.so: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/version.rs /root/morning/meme/meme-token/target/debug/build/rustversion-871bf1ee68045e5d/out/version.expr
+
+/root/morning/meme/meme-token/target/debug/deps/rustversion-2468c0b6c5a3f2c2.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/version.rs /root/morning/meme/meme-token/target/debug/build/rustversion-871bf1ee68045e5d/out/version.expr
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/bound.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/constfn.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/date.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expand.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/expr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/iter.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/release.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/time.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/token.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.14/src/version.rs:
+/root/morning/meme/meme-token/target/debug/build/rustversion-871bf1ee68045e5d/out/version.expr:
+
+# env-dep:OUT_DIR=/root/morning/meme/meme-token/target/debug/build/rustversion-871bf1ee68045e5d/out
